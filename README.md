@@ -7,7 +7,7 @@ February 25, 2019
 ### Requirements:
 
 * git ([instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
-* Python 3.7 (https://wwww.anaconda.com)[https://wwww.anaconda.com]
+* Python 3.7 [https://wwww.anaconda.com](https://wwww.anaconda.com)
 * Jupyter Notebook 
 * keras
 * numpy
