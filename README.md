@@ -13,7 +13,7 @@ You can view the non-interactive code at the following link:
 ### Requirements:
 
 * git ([instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
-* Python 3.7 [https://wwww.anaconda.com](https://wwww.anaconda.com)
+* Python 3.7 [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 * Jupyter Notebook 
 * keras
 * numpy
