@@ -4,6 +4,12 @@ Benjamin J. Radford
 Prepared for UNCC  
 February 25, 2019  
 
+### Quick start:
+
+You can view the non-interactive code at the following link:  
+
+[**ML Jupyter Notebook**](https://github.com/benradford/radford_uncc_ml_workshop/blob/master/radford_ml_workshop.ipynb)
+
 ### Requirements:
 
 * git ([instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
